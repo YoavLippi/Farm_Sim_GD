@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876beb89dfb8fe7448332187e5e7836a, type: 3}
+  m_Name: Pig
+  m_EditorClassIdentifier: 
+  maxAttention: 120
+  maxHunger: 120
+  maxEnergy: 120
+  maxCleanliness: 120
+  maxHealth: 120
+  attRate: 1
+  hunRate: 2
+  energyRate: 0.4
+  cleanRate: 1.5

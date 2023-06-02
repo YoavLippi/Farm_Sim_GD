@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2092650560627938781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1497215331105248953, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1088424448, guid: b0544e73fb21b4a488f5415b54832e25, type: 3}
+    - target: {fileID: 2224084365230016377, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: animalStats
+      value: 
+      objectReference: {fileID: 11400000, guid: b66b7dc50cdffd244a3fc75c82a312e7, type: 2}
+    - target: {fileID: 3107679261106706415, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: a0243fd5e129f9d45b383b89a2f70e78, type: 2}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156778843187391106, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3699269440149704624, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
+      propertyPath: m_Name
+      value: Horse
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 25aa8accb53b7fe41a993b411f50320f, type: 3}
